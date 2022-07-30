@@ -1,0 +1,25 @@
+.me__container{
+    background: linear-gradient(var(--color-primary),transparent) center top no-repeat;
+    width: 22rem;
+    height: 50%;
+    position: relative;
+    border-radius: 12rem 12rem 0 0;
+    left: calc(50% - 11rem);
+    padding: 6rem 1.5rem 1.5rem 1.5rem;
+    background-size: contain;
+}
+
+.me__container img{
+    width: 100%;
+    
+    background-size: cover;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1300px) {
+    
+
+    .me__container{
+        margin-top: 4rem;
+    }
+
+}

@@ -1,0 +1,421 @@
+[{
+    "language": "English",
+    "hello": "Welcome! I am"
+  },
+  {
+    "language": "Afrikaans",
+    "hello": "Hallo! ek is"
+  },
+  {
+    "language": "Albanian",
+    "hello": "Përshëndetje! une jam"
+  },
+  {
+    "language": "Amharic",
+    "hello": "ሰላም! እኔ ነኝ"
+  },
+  {
+    "language": "Arabic",
+    "hello": "مرحبامرحبا ,أنا"
+  },
+  {
+    "language": "Armenian",
+    "hello": "Բարեւ, ես եմ"
+  },
+  {
+    "language": "Azerbaijani",
+    "hello": "Salam mən"
+  },
+  {
+    "language": "Basque",
+    "hello": "Kaixo! naiz"
+  },
+  {
+    "language": "Belarusian",
+    "hello": "добры дзень"
+  },
+  {
+    "language": "Bengali",
+    "hello": "নমস্কার, আমি"
+  },
+  {
+    "language": "Bosnian, jesam",
+    "hello": "zdravo"
+  },
+  {
+    "language": "Bulgarian",
+    "hello": "Здравейте аз съм"
+  },
+  {
+    "language": "Catalan",
+    "hello": "Hola! jo sóc"
+  },
+  {
+    "language": "Cebuano",
+    "hello": "Hello"
+  },
+  {
+    "language": "Chichewa",
+    "hello": "Moni"
+  },
+  {
+    "language": "Chinese (Simplified)",
+    "hello": "您好! 我是"
+  },
+  {
+    "language": "Chinese (Traditional)",
+    "hello": "您好! 我是"
+  },
+  {
+    "language": "Corsican",
+    "hello": "Bonghjornu"
+  },
+  {
+    "language": "Croatian",
+    "hello": "zdravo!ja sam"
+  },
+  {
+    "language": "Czech",
+    "hello": "Ahoj! já jsem"
+  },
+  {
+    "language": "Danish",
+    "hello": "Hej"
+  },
+  {
+    "language": "Dutch",
+    "hello": "Hallo ik ben"
+  },
+  {
+    "language": "English",
+    "hello": "Hello! I am"
+  },
+  {
+    "language": "Esperanto",
+    "hello": "Saluton! mi estas"
+  },
+  {
+    "language": "Estonian",
+    "hello": "Tere"
+  },
+  {
+    "language": "Filipino",
+    "hello": "Kumusta! Ako ay"
+  },
+  {
+    "language": "Finnish",
+    "hello": "Hei! olen"
+  },
+  {
+    "language": "French",
+    "hello": "Bonjour! Je suis"
+  },
+  {
+    "language": "Frisian",
+    "hello": "Hello"
+  },
+  {
+    "language": "Galician",
+    "hello": "Ola"
+  },
+  {
+    "language": "Georgian",
+    "hello": "გამარჯობა! მე ვარ"
+  },
+  {
+    "language": "German",
+    "hello": "Hallo! Ich bin"
+  },
+  {
+    "language": "Greek",
+    "hello": "Γεια σας! Είμαι"
+  },
+  {
+    "language": "Gujarati",
+    "hello": "નમસ્તે! હું છું"
+  },
+  {
+    "language": "Bonjou",
+    "hello": "Haitian Creole"
+  },
+  {
+    "language": "Hausa",
+    "hello": "Sannu"
+  },
+  {
+    "language": "Hawaiian",
+    "hello": "Alohaʻoe"
+  },
+  {
+    "language": "Hebrew",
+    "hello": "שלוםשלום! אני"
+  },
+  {
+    "language": "Hindi",
+    "hello": "नमस्ते, मैं हूँ"
+  },
+  {
+    "language": "Hmong",
+    "hello": "Nyob zoo"
+  },
+  {
+    "language": "Hungarian",
+    "hello": "Helló! Én vagyok"
+  },
+  {
+    "language": "Icelandic",
+    "hello": "Halló! ég er"
+  },
+  {
+    "language": "Igbo",
+    "hello": "Ndewo"
+  },
+  {
+    "language": "Indonesian",
+    "hello": "Halo! saya"
+  },
+  {
+    "language": "Irish",
+    "hello": "Dia duit! tá mé"
+  },
+  {
+    "language": "Italian",
+    "hello": "Ciao! sono"
+  },
+  {
+    "language": "Japanese",
+    "hello": "こんにちは！私は"
+  },
+  {
+    "language": "Javanese",
+    "hello": "Hello! kula"
+  },
+  {
+    "language": "Kannada",
+    "hello": "ನಮಸ್ಕಾರ! ನಾನು"
+  },
+  {
+    "language": "Kazakh",
+    "hello": "Сәлеметсіз бе! мен"
+  },
+  {
+    "language": "Khmer",
+    "hello": "សួស្តី! ខ្ញុំ​គឺ"
+  },
+  {
+    "language": "Korean",
+    "hello": "안녕하세요! 그래요."
+  },
+  {
+    "language": "Kurdish (Kurmanji)",
+    "hello": "Slav! Ez .... imkh"
+  },
+  {
+    "language": "Kyrgyz",
+    "hello": "салам"
+  },
+  {
+    "language": "Lao",
+    "hello": "ສະບາຍດີ! ຂ້ອຍ​ແມ່ນ"
+  },
+  {
+    "language": "Latin",
+    "hello": "salve! ego sum"
+  },
+  {
+    "language": "Latvian",
+    "hello": "Sveiki! ES esmu"
+  },
+  {
+    "language": "Lithuanian",
+    "hello": "Sveiki! Aš esu"
+  },
+  {
+    "language": "Luxembourgish",
+    "hello": "Hallo! Ech sinn"
+  },
+  {
+    "language": "Macedonian! Јас сум",
+    "hello": "Здраво! Јас сум"
+  },
+  {
+    "language": "Malagasy",
+    "hello": "Salama! Izaho dia"
+  },
+  {
+    "language": "Malay",
+    "hello": "Hello! saya adalah"
+  },
+  {
+    "language": "Malayalam",
+    "hello": "ഹലോ! ഞാൻ"
+  },
+  {
+    "language": "Maltese",
+    "hello": "Bongu! jien"
+  },
+  {
+    "language": "Maori",
+    "hello": "Hiha"
+  },
+  {
+    "language": "Marathi",
+    "hello": "नमस्कार! मी आहे"
+  },
+  {
+    "language": "Mongolian",
+    "hello": "Сайн байна уу? Би бол"
+  },
+  {
+    "language": "Myanmar (Burmese)",
+    "hello": "မင်္ဂလာပါ! ငါ"
+  },
+  {
+    "language": "Nepali",
+    "hello": "नमस्ते! म हो"
+  },
+  {
+    "language": "Norwegian",
+    "hello": "Hallo! jeg er"
+  },
+  {
+    "language": "Pashto",
+    "hello": "سلامسلام! زه یم"
+  },
+  {
+    "language": "Persian",
+    "hello": "سلام! من هستم"
+  },
+  {
+    "language": "Polish",
+    "hello": "Cześć! Ja jestem"
+  },
+  {
+    "language": "Portuguese",
+    "hello": "Olá! Eu sou"
+  },
+  {
+    "language": "Punjabi",
+    "hello": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਮੈਂ ਹਾਂ"
+  },
+  {
+    "language": "Romanian",
+    "hello": "Buna! eu sunt"
+  },
+  {
+    "language": "Russian",
+    "hello": "Привет! Я"
+  },
+  {
+    "language": "Samoan",
+    "hello": "Talofa! O a'u"
+  },
+  {
+    "language": "Scots Gaelic",
+    "hello": "Halò! Tha mise"
+  },
+  {
+    "language": "Serbian",
+    "hello": "Здраво! Ја сам"
+  },
+  {
+    "language": "Sesotho",
+    "hello": "Hello! I am"
+  },
+  {
+    "language": "Shona",
+    "hello": "Mhoro! Ndiri"
+  },
+  {
+    "language": "Sindhi",
+    "hello": "هيلوسلام! مان آهيان"
+  },
+  {
+    "language": "Sinhala",
+    "hello": "හෙලෝ! මම"
+  },
+  {
+    "language": "Slovak",
+    "hello": "Ahoj! som"
+  },
+  {
+    "language": "Slovenian",
+    "hello": "Zdravo! Jaz sem"
+  },
+  {
+    "language": "Somali",
+    "hello": "Hello! Aniga"
+  },
+  {
+    "language": "Spanish",
+    "hello": "¡Hola! Soy"
+  },
+  {
+    "language": "Sundanese",
+    "hello": "halo! abdi"
+  },
+  {
+    "language": "Swahili",
+    "hello": "Habari! mimi"
+  },
+  {
+    "language": "Swedish",
+    "hello": "Hallå! jag är"
+  },
+  {
+    "language": "Tajik",
+    "hello": "Салом! ман мебошам"
+  },
+  {
+    "language": "Tamil",
+    "hello": "வணக்கம்! நான்"
+  },
+  {
+    "language": "Telugu",
+    "hello": "హలో! నేను"
+  },
+  {
+    "language": "Thai",
+    "hello": "สวัสดี! ฉัน"
+  },
+  {
+    "language": "Turkish",
+    "hello": "Merhaba"
+  },
+  {
+    "language": "Ukranian",
+    "hello": "Привіт! я"
+  },
+  {
+    "language": "Urdu",
+    "hello": "ہیلوہیلو! میں ہوں"
+  },
+  {
+    "language": "Uzbek",
+    "hello": "Salom! men"
+  },
+  {
+    "language": "Vietnamese",
+    "hello": "Xin chào! Tôi là"
+  },
+  {
+    "language": "Welsh",
+    "hello": "Helo! Dwi yn"
+  },
+  {
+    "language": "Xhosa",
+    "hello": "Molo! ndingu"
+  },
+  {
+    "language": "Yiddish",
+    "hello": "העלא! איך ביןהעלא"
+  },
+  {
+    "language": "Yoruba",
+    "hello": "Pẹlẹ o! Emi ni"
+  },
+  {
+    "language": "Zulu",
+    "hello": "Sawubona! Nginguye"
+  }
+]

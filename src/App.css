@@ -1,38 +1,239 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Lora&family=Poppins:wght@300;400;500&family=Roboto&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root{
+
+  /* dark mode */
+  
+  --color-bg:   #111111  ;
+  --color-bg-varient: #0E243E;
+  --color-primary: #1191e6;
+  --color-primary-variant: #05243F ;
+  --color-white: #fff;
+  
+  --color-btn:#1191e6;
+  --color-btn-hover:#fff;
+
+  --color-light: rgba(255,255,255,0.6);
+  --color-gray:#8B949E;
+
+  --color-text:#fff;
+  --color-text-hover:#fff;
+  
+  
+ 
+  --transparent: transparent;
+
+  --transition: all 400ms ease;
+
+
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
+
+
+[data-theme='light']{
+
+  --color-bg: #fff;
+  --color-bg-variant :#f0f0f0;
+  --color-primary:#0084FF;
+  --color-primary-variant:#E5F3FE;
+
+  --color-btn:#0084ff;
+  --color-btn-hover: #339DFF;
+
+  --color-text-hover:#0084FF;
+  --color-text:#111111 ;
+
+
+  --color-gray:#969696;
+  --color-dark:#000000;
+  
+  --transparent:#99CEFF;
+  
+ 
+}
+
+
+
+/*  dark mode #0C111B 
+
+bg - #ffffff   #0a0a28
+
+variant - #2c2c6c #2c2c6c
+
+primary- #4db5ff  #2980B9
+
+primary- variant - rgba(77, 181, 255, 0.4) rgba(27, 147, 232, 0.4) 
+
+light - rgba(255,255,255,0.6)
+
+ text -color heading  -  #050206
+text color - #3B3B3B
+  nav - #9A8174
+
+  #ffcb74
+
+#1633FF
+
+#259AE8
+
+*/
+
+html{
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+.app{
+  background: var(--color-bg);
+  transition: var(--transition);
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  color:var(--color-text);
+  line-height: 1.7;
+  
+}
+
+
+.container{
+  width: var(--container-width-lg);
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+  font-weight: 500;
+}
+
+h1{
+  font-size: 2.5rem;
+}
+
+section{
+  margin-top: 8.5rem;
+ 
+}
+
+section>h2,
+section>h5{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+section>h5{
+  color: var(--color-gray);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+section>h2{
+  color:var(--color-text);
+  margin-bottom: 3rem;
+}
+
+.text-gray{
+  color:var(--color-gray)
+}
+
+.text-light{
+  color: var(--color-text);
+}
+
+a{
+  color: var(--color-text);
+  transition: var(--transition);
+}
+
+a:hover{
+  color: var(--color-text);
+}
+
+.btn{
+  width: max-content;
+  display: inline-block;
+  color: var(--color-primary);
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: var(--transition);
+  border: 1px solid var(--color-primary);
+}
+
+.btn:hover{
+  background: var(--color-btn-hover);
+  color: var(--color-bg);
+  border-color: transparent;
+
+}
+
+
+.btn-primary{
+  background: var(--color-btn);
+  color: var(--color-bg);
+}
+
+img{
+  display: block;
+  width: 100%;
+  object-fit: cover ;
+}
+
+
+/* medium screen */
+
+@media  screen and (max-width: 1024px){
+    .container{
+      width: var(--container-width-md);
+    }
+
+    section{
+      margin-top: 6rem;
+    }
+
+}
+
+/* small screen */
+
+
+@media only screen and (max-width: 600px) {
+  
+  .container{
+    width:var(--container-width-sm);
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  section>h2{
+    margin-bottom: 2rem;
   }
-  to {
-    transform: rotate(360deg);
-  }
+  
 }
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+
+ .container{
+   width: 100%;
+   overflow-x: hidden;
+ }
+ 
+
+}
+  
+  
+ 

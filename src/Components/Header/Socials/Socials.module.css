@@ -1,0 +1,29 @@
+.socials{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.8rem;
+   
+    
+    font-size: 1.5rem;
+    
+}
+
+.socials>a{
+    color:var(--color-btn);
+}
+
+.socials>a:hover{
+    color:var( --color-btn-hover);
+    transition:  all 400ms ease;
+}
+
+@media screen and (max-width:700px) {
+
+    .socials{
+        display: none;
+    }
+    
+}
+

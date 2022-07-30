@@ -1,0 +1,63 @@
+.dark-light__mode{
+    
+    background-color: var(--color-light);
+    height: 2.2rem;
+    width: 2.2rem;
+    border-radius: 50%;
+    transition: var(--transition);
+    position: fixed;
+    z-index: 1000!important;
+
+    left: calc(100% - 3rem);
+    top: 3rem;
+}
+
+
+
+.toogle__button{
+    padding: 0.5rem;
+    border-radius: 50%;
+    
+    border: 0;
+    height: 2.2rem;
+    width: 2.2rem;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+
+
+.toogle__icon{
+    
+    font-size: 1.1rem;
+    
+}
+
+.toogle__button-light{
+    box-shadow:   0px 0px 10px 3px rgb(136, 144, 166);
+}
+
+.toogle__button-dark{
+    font-size: 1.1rem;
+    color:var(--color-white);
+    background: #0C111B ;
+    box-shadow: 0 0 10px 3px  rgba(198,206,227,1);
+}
+
+
+@media screen and (max-width:600px) {
+    .dark-light__mode{
+        position: relative;
+        left: calc(100% - 2rem);
+        top: -16rem;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px){
+
+    .dark-light__mode{
+        left: calc(100% - 3rem);
+        top: -12.5rem;
+    }
+
+}

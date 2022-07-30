@@ -1,0 +1,128 @@
+
+ /* #about{
+    position: relative;
+    top: 4rem;
+    margin-bottom: 3rem;
+}  */
+
+.about__container{
+    
+display: grid;
+grid-template-columns: 35% 50%;
+gap: 15%
+
+}
+
+.about__me{
+    width: 100%;
+    border-radius: 2rem;
+    aspect-ratio: 1/1;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(45deg, transparent, var(--color-primary),transparent);
+}
+
+.about__me_image{
+   border-radius: 2rem;
+   overflow: hidden;
+   transform: rotate(10deg); 
+   transition: var(--transition);
+}
+
+.about__me_image:hover{
+    transform: rotate(0deg);
+}
+
+.about__Cards{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1.5rem;
+}
+
+.about__Card{
+    transition: var(--transition);
+    border-radius: 1rem;
+    background: var(--color-primary-variant);
+    border: 1px solid transparent;
+    padding: 2rem;
+    text-align: center;
+    color: var(--color-text);
+}
+
+.about__Card:hover{
+    background: transparent;
+    border-color: var(--color-primary);
+    cursor: default;
+    color: var(--color-text-hover);
+}
+
+.about__icon{
+    color: var(--color-primary);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.about__Card h5{
+    font-size: .95rem;
+}
+
+.about__Card small{
+    font-size: 0.7rem;
+    color: var(--color-gray);
+}
+
+.about__content p{
+    margin: 2rem 0 2.6rem;
+    color: var(--color-text);
+}
+
+
+@media screen and (max-width:1025px) {
+    /* #about{
+        margin-top: 20rem;
+    } */
+    
+    .about__container{
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .about__me{
+      width: 50%;
+      margin: 2rem auto 4rem;  
+    }
+    
+
+    .about__content p{
+        margin: 1rem 0 1.5rem;
+    }
+
+    .submit__button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+
+    .about__me{
+        width: 65%;
+        margin: 0 auto 3rem;
+    }
+
+    .about__Cards{
+        grid-template-columns: 1fr 1fr;
+        gap:1rem;
+    }
+
+    .about__content{
+        text-align: center;
+    }
+
+    .about__content p{
+        margin: 1.5rem 0;
+    }
+    
+}
