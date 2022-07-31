@@ -37,10 +37,9 @@ function About() {
           </div>
           
           <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt,
-          distinctio rerum? Sunt, veritatis officia magni eum quia alias hic!
-          Praesentium numquam rem tenetur voluptates quis, cum enim illo
-          laudantium explicabo.
+          I'm a full-stack developer who loves building user-friendly websites and web-app and enjoys doing it.
+          I am building web apps with advanced web technology like react node and next. I'm currently interseted
+          in learning more about web3 tech and blockchain. 
           </p>
           
           <div className="submit__button">

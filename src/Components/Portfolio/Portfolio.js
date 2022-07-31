@@ -1,7 +1,9 @@
 import React from 'react'
 import './Portfolio.css'
 
-import img1 from '../../assests/portfolio1.jpg'
+import img1 from '../../assests/master-paint.png'
+import img2 from '../../assests/gitnode.png'
+import img3 from '../../assests/text-emotion.png'
 
 import PortfolioItem from './PortfolioItem'
 
@@ -21,17 +23,17 @@ function Portfolio() {
               />
 
               <PortfolioItem
-                  img={img1}
+                  img={img2}
                   description="gitNode"
                   host='https://github.com/ishan-im/git-Node'
                   liveLink="https://gitnode.tech/"
               />
 
               <PortfolioItem
-                  img={img1}
-                  description="portfolio-image"
-                  host='github.com'
-                  liveLink="github.com"
+                  img={img3}
+                  description="master-paint"
+                  host='https://github.com/ishan-im/Master-Paint'
+                  liveLink="https://masterpaint.netlify.app/"
               />
 
 
