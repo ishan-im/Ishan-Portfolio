@@ -16,7 +16,7 @@ function Portfolio() {
       <div className="container portfolio__container">
 
               <PortfolioItem
-                  img={img1}
+                  img={img3}
                   description="text emotion"
                   host='https://github.com/ishan-im/text-editor'
                   liveLink="https://textemotion.netlify.app/"
@@ -30,7 +30,7 @@ function Portfolio() {
               />
 
               <PortfolioItem
-                  img={img3}
+                  img={img1}
                   description="master-paint"
                   host='https://github.com/ishan-im/Master-Paint'
                   liveLink="https://masterpaint.netlify.app/"
