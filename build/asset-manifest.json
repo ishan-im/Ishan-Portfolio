@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8df208d8.css",
-    "main.js": "/static/js/main.823d25f9.js",
+    "main.css": "/static/css/main.8ba7758e.css",
+    "main.js": "/static/js/main.afa11df4.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/me-about-copy-2.png": "/static/media/me-about-copy-2.bf4f70fa2209195e718f.png",
     "static/media/my-img-background.png": "/static/media/my-img-background.117f11047f3f846545f8.png",
     "static/media/gitnode.png": "/static/media/gitnode.1e4c1ab2791bac0756cf.png",
     "static/media/text-emotion.png": "/static/media/text-emotion.04b80e19e40649fff942.png",
-    "static/media/ISHAN_MONDALs_RESUME.pdf": "/static/media/ISHAN_MONDALs_RESUME.626277319873ce639066.pdf",
+    "static/media/ISHAN_MONDALs_RESUME.pdf": "/static/media/ISHAN_MONDALs_RESUME.2584afb78880b608a972.pdf",
     "static/media/master-paint.png": "/static/media/master-paint.80a4630a74aba042451f.png",
     "index.html": "/index.html",
-    "main.8df208d8.css.map": "/static/css/main.8df208d8.css.map",
-    "main.823d25f9.js.map": "/static/js/main.823d25f9.js.map",
+    "main.8ba7758e.css.map": "/static/css/main.8ba7758e.css.map",
+    "main.afa11df4.js.map": "/static/js/main.afa11df4.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8df208d8.css",
-    "static/js/main.823d25f9.js"
+    "static/css/main.8ba7758e.css",
+    "static/js/main.afa11df4.js"
   ]
 }
