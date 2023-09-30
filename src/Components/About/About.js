@@ -37,9 +37,7 @@ function About() {
           </div>
           
           <p>
-          I'm a full-stack developer who loves building user-friendly websites and web-app and enjoys doing it.
-          I am building web apps with advanced web technology like react node and next. I'm currently interseted
-          in learning more about web3 tech and blockchain. 
+          I'm a full-stack developer with a passion for crafting user-friendly web applications. I thrive on utilizing modern web technologies like React.js, Node.js and Next.js to build seamless digital experiences. Recently, I've transitioned into the exciting realm of blockchain development, where I now work as a full-stack blockchain developer. This shift has allowed me to explore the cutting-edge world of Web3 technology, adding a new layer of innovation to my web development journey.
           </p>
           
           <div className="submit__button">

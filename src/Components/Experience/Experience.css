@@ -5,6 +5,8 @@
 }
 
 
+
+
 .experience__container > div{
     background: var(--color-primary-variant);
     padding: 2.4rem 5rem;
@@ -62,6 +64,8 @@
         padding: 1rem;
     }
 
+  
+
 
     
 }
@@ -75,5 +79,6 @@
         width: 100%;
         padding: 2rem 1rem;
     }
+  
     
 }

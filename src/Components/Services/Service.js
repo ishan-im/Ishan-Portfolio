@@ -54,11 +54,11 @@ function Service() {
 
             <ServiceList paragraph='Developing components / pages'/>
 
-            <ServiceList paragraph='Building Single Page Application with Next js'/>
+            <ServiceList paragraph='Building Single Page Application with Next.js'/>
 
             <ServiceList paragraph='Mobile App development with React Native'/>
 
-            <ServiceList paragraph='Started building d-Apps with Web3'/>
+            <ServiceList paragraph='dApps with Web3'/>
           </ul>
         </article>
 

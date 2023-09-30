@@ -28,7 +28,7 @@ function Experience() {
 
               <ExperienceItem item='React.js' experience='Experienced'/>
 
-              <ExperienceItem item='Next.js' experience='Intermediate'/>
+              <ExperienceItem item='Next.js' experience='Experienced'/>
 
               <ExperienceItem item='Material UI' experience='Experienced'/>
 
@@ -51,6 +51,25 @@ function Experience() {
               <ExperienceItem item='My Sql' experience='Intermediate'/>
               
               <ExperienceItem item='Python' experience='Basic'/>
+              
+            </div>
+        </div>
+
+        <div className="experience__blockchain">
+        <h3>Blockchain Development</h3>
+            <div className="experience__content">
+
+              <ExperienceItem item='Solidity' experience='Experienced'/>
+              
+            <ExperienceItem item='Web3.js' experience='Experienced'/>
+
+              <ExperienceItem item='Ether.js' experience='Experienced'/>
+
+              <ExperienceItem item='Hardhat' experience='Experienced'/>
+
+              <ExperienceItem item='Thirdweb' experience='Experienced'/>
+              
+              <ExperienceItem item='Ganache' experience='Experienced'/>
               
             </div>
         </div>
