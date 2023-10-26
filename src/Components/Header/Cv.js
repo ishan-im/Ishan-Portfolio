@@ -1,6 +1,6 @@
 import React from 'react'
 
-import cv from '../../assests/Ishan_Mondals_Resume.pdf'
+import cv from '../../assests/Ishan_Mondal_Resume.pdf'
 
 
 function Cv() {
